@@ -40,3 +40,7 @@ testem.log
 Thumbs.db
 
 .nx/cache
+
+# Knowledge graph metadata - only commit the bundle
+.knowledge/
+.knowledge
